@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Documents\Visual Studio 2022\mp2-lab4-queue\build\CMakeFiles\741b13aa081e4cfcd09d263fc516bcf6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C10E792E-D194-300E-95F7-F131BE3084E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
